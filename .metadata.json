@@ -2,5 +2,9 @@
   {
     "package": "crimedata",
     "oncran": true
+  },
+  {
+    "package": "sfhotspot",
+    "oncran": true
   }
 ]

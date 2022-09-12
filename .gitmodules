@@ -8,3 +8,8 @@
 	url = https://github.com/mpjashby/crimedata
 	shallow = true
 	registered = true
+[submodule "sfhotspot"]
+	path = sfhotspot
+	url = https://github.com/mpjashby/sfhotspot
+	shallow = true
+	registered = true
