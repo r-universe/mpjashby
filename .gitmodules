@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "crimedata"]
 	path = crimedata
 	url = https://github.com/mpjashby/crimedata
-	shallow = true
-	registered = true
 [submodule "sfhotspot"]
 	path = sfhotspot
 	url = https://github.com/mpjashby/sfhotspot
-	shallow = true
-	registered = true
